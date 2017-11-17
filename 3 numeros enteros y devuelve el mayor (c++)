@@ -9,6 +9,7 @@ int main(){
     std::cout<<"Escribel el segundo numero: ";
     std::cin>>n2;
     std::cout<<"Escribel el tercer numero: ";
+    
     std::cin>>n3;
     if(n1>n2){
               if(n1>n3){
